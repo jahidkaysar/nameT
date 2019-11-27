@@ -1,0 +1,11 @@
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\bin\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.exe
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\bin\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.deps.json
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\bin\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.runtimeconfig.json
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\bin\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.runtimeconfig.dev.json
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\bin\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.dll
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\bin\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.pdb
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\obj\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.csprojAssemblyReference.cache
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\obj\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.AssemblyInfoInputs.cache
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\obj\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.AssemblyInfo.cs
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\obj\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.dll
+C:\Users\Jahid Kaysar\source\repos\Ex- 02 HelloWorldWithCli\Ex- 02 HelloWorldWithCli\obj\Debug\netcoreapp3.0\Ex- 02 HelloWorldWithCli.pdb
